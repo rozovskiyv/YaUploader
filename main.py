@@ -34,5 +34,5 @@ class YDisk:
 if __name__ == '__main__':
     path_to_file = 'C:\\Python'
     file_name = '5.txt'
-    ya = YDisk('y0_AgAAAAAwperBAADLWwAAAADbzbGAuN0eAfDJQoei71SVGGczDxEntuQ')
+    ya = YDisk('')
     ya.upload(path_to_file, file_name)
